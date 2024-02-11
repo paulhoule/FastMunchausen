@@ -1,4 +1,4 @@
-This project is based on the code at https://github.com/jabbalaci/SpeedTests which compares the speed of a simple task across a large number of programming languages.  It seemed to me that that algorithm being used wasn't very efficient so I coded up the implementation of DeepLoop which is much more complex program that
+This project is based on the code at https://github.com/jabbalaci/SpeedTests which compares the speed of a simple task across a large number of programming languages.  It seemed to me that that algorithm being used wasn't very efficient so I coded up the implementation of [DeepLoop](/paulhoule/FastMunchausen/blob/main/src/main/java/DeepLoop.java) which is much more complex program that
 runs much faster.
 
 Original
